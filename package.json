@@ -1,0 +1,40 @@
+{
+  "name": "koa2-rest-api",
+  "version": "1.0.0",
+  "description": "rest api library for koa2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HanHyeoksu/koa2-rest-api.git"
+  },
+  "keywords": [
+    "koa",
+    "koa2",
+    "koa-router",
+    "rest",
+    "api"
+  ],
+  "author": "hshan",
+  "license": "MIT",
+  "dependencies": {
+    "co-body": "^5.1.1",
+    "debug": "^3.1.0",
+    "koa": "^2.5.0",
+    "koa-compose": "^4.0.0",
+    "koa-helmet": "^3.3.0",
+    "koa-jwt": "2",
+    "koa-log4": "^2.3.0",
+    "koa-router": "^7.4.0",
+    "koa-session": "^5.8.1"
+  },
+  "bugs": {
+    "url": "https://github.com/HanHyeoksu/koa2-rest-api/issues"
+  },
+  "homepage": "https://github.com/HanHyeoksu/koa2-rest-api#readme",
+  "engines": {
+    "node": ">=8.1.4"
+  }
+}
