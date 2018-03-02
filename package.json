@@ -21,7 +21,6 @@
   "license": "MIT",
   "dependencies": {
     "co-body": "^5.1.1",
-    "debug": "^3.1.0",
     "koa": "^2.5.0",
     "koa-compose": "^4.0.0",
     "koa-helmet": "^3.3.0",
