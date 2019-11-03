@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/HanHyeoksu/koa2-rest-api.git"
+    "url": "git+https://github.com/hyeoksuhan/koa2-rest-api.git"
   },
   "keywords": [
     "koa",
@@ -20,19 +20,19 @@
   "author": "hshan",
   "license": "MIT",
   "dependencies": {
-    "co-body": "^5.1.1",
-    "koa": "^2.5.0",
-    "koa-compose": "^4.0.0",
-    "koa-helmet": "^3.3.0",
-    "koa-jwt": "2",
-    "koa-log4": "^2.3.0",
-    "koa-router": "^7.4.0",
-    "koa-session": "^5.8.1"
+    "co-body": "5.1.1",
+    "koa": "2.5.0",
+    "koa-compose": "4.0.0",
+    "koa-helmet": "3.3.0",
+    "koa-jwt": "3.6.0",
+    "koa-log4": "2.3.2",
+    "koa-router": "7.4.0",
+    "koa-session": "5.8.1"
   },
   "bugs": {
-    "url": "https://github.com/HanHyeoksu/koa2-rest-api/issues"
+    "url": "https://github.com/hyeoksuhan/koa2-rest-api/issues"
   },
-  "homepage": "https://github.com/HanHyeoksu/koa2-rest-api#readme",
+  "homepage": "https://github.com/hyeoksuhan/koa2-rest-api#readme",
   "engines": {
     "node": ">=8.1.4"
   }
