@@ -5,7 +5,7 @@
 [node-image]: https://img.shields.io/badge/node-%3E%3D%208.1.4-brightgreen.svg
 [node-url]: https://nodejs.org
 
-[npm-image]: https://img.shields.io/badge/npm-1.0.2-blue.svg
+[npm-image]: https://badge.fury.io/js/koa2-rest-api.svg
 [npm-url]: https://www.npmjs.com/package/koa2-rest-api
 
 rest api library for koa2
